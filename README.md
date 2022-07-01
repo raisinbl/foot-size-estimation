@@ -1,15 +1,16 @@
 # foot-size-estimation
 
 ## Introduction
-Our project is used to estimate feet size just by 2D image of your feet. To do that, you need to prepare white paper, put your feet in that paper. Take a picture that you can see clearly both your feet and paper like this one:
-<img src="https://github.com/raisinbl/foot-size-estimation/blob/main/image_classified/normal_img/23809.jpeg" alt="uploaded image" width="200" height="333"/> Wait a minute and you'll get your feet size :smile:
+Our project is used to estimate feet size just by 2D image of your feet. To do that, you need to prepare white paper, put your feet in that paper. Take a picture that you can see clearly both your feet and paper like this one:<br>
+<img src="https://github.com/raisinbl/foot-size-estimation/blob/main/image_classified/normal_img/23809.jpeg" alt="uploaded image" width="200" height="333"/> <br> 
+Wait a minute and you'll get your feet size :smile:
 
 ## Installation
 Clone our repo: `https://github.com/raisinbl/foot-size-estimation/` <br>
 `cd foot-size-estimation`<br>
 Install library: `pip install requirements.txt` <br>
-Enjoy your app: `streamlit run streamlit_main.py`, you can run it on other divices by go to Network URL:
-<img src="https://user-images.githubusercontent.com/66005831/176816188-2d4bd5d2-7a94-4852-ba6d-139b67d3db68.png" alt="" width="900" height="200"/>
+Enjoy your app: `streamlit run streamlit_main.py`, you can run it on other divices by go to Network URL:<br>
+<img src="https://user-images.githubusercontent.com/66005831/176816188-2d4bd5d2-7a94-4852-ba6d-139b67d3db68.png" alt="" width="866" height="150"/>
 
 ## How it worked?
 Image segmentation is a importation technique in Machine Learning, Deep Learning in general and Computer Vision in particular.<br>
