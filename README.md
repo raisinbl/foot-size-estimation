@@ -2,7 +2,7 @@
 
 ## Introduction
 Our project is used to estimate feet size just by 2D image of your feet. To do that, you need to prepare white paper, put your feet in that paper. Take a picture that you can see clearly both your feet and paper like this one:
-![feet on paper picture](https://github.com/raisinbl/foot-size-estimation/blob/main/image_classified/normal_img/23809.jpeg =250x250) Wait a minute and you'll get your feet size :smile:
+![feet on paper picture](https://github.com/raisinbl/foot-size-estimation/blob/main/image_classified/normal_img/23809.jpeg width="200" height="200") Wait a minute and you'll get your feet size :smile:
 
 ## Installation
 Clone our repo: `https://github.com/raisinbl/foot-size-estimation/` <br>
