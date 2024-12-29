@@ -10,7 +10,6 @@ Clone our repo: `https://github.com/raisinbl/foot-size-estimation/` <br>
 `cd foot-size-estimation`<br>
 Install library: `pip install -r requirements.txt` <br>
 Enjoy your app: `streamlit run streamlit_main.py`, you can run it on other divices by go to Network URL:<br>
-<img src="https://user-images.githubusercontent.com/66005831/176816188-2d4bd5d2-7a94-4852-ba6d-139b67d3db68.png" alt="" width="866" height="150"/>
 
 ## How it worked?
 Image segmentation is a importation technique in Machine Learning, Deep Learning in general and Computer Vision in particular.<br>
